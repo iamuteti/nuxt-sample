@@ -1361,8 +1361,8 @@ function shouldScrollToTop(route) {
 
 
 
-const _089c4717 = () => interopDefault(__webpack_require__.e(/* import() | pages/test */ 4).then(__webpack_require__.bind(null, 31)));
-const _23c2571d = () => interopDefault(__webpack_require__.e(/* import() | pages/index */ 3).then(__webpack_require__.bind(null, 29)));
+const _089c4717 = () => interopDefault(__webpack_require__.e(/* import() | pages/test */ 4).then(__webpack_require__.bind(null, 29)));
+const _23c2571d = () => interopDefault(__webpack_require__.e(/* import() | pages/index */ 3).then(__webpack_require__.bind(null, 30)));
 
 const emptyFn = () => {};
 external_vue_default.a.use(external_vue_router_default.a);
@@ -2012,7 +2012,7 @@ const layouts = {
 });
 // CONCATENATED MODULE: ./.nuxt/components/index.js
 const NuxtLogo = () => __webpack_require__.e(/* import() | components/nuxt-logo */ 1).then(__webpack_require__.bind(null, 32)).then(c => wrapFunctional(c.default || c));
-const Tutorial = () => __webpack_require__.e(/* import() | components/tutorial */ 2).then(__webpack_require__.bind(null, 30)).then(c => wrapFunctional(c.default || c));
+const Tutorial = () => __webpack_require__.e(/* import() | components/tutorial */ 2).then(__webpack_require__.bind(null, 31)).then(c => wrapFunctional(c.default || c));
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
